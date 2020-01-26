@@ -1,8 +1,8 @@
 const arr = [1, 2, 3, 4, 5];
 const arr1 = arr.slice();
-let arr2 = arr.slice();
 const arr3 = arr.slice();
 const arr4 = arr.slice();
+let arr2 = arr.slice();
 
 arr1.splice(1, 2);
 arr2 = arr2.splice(1,3);

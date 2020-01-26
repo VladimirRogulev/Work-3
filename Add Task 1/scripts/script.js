@@ -1,4 +1,5 @@
-const arr1 = ['a', 'b', 'c'], arr2 = [1, 2, 3];
+const arr1 = ['a', 'b', 'c'];
+const arr2 = [1, 2, 3];
 
 alert(`Input: 
     ${arr1}
